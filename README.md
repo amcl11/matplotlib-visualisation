@@ -1,2 +1,11 @@
-# module_5_challenge
-My code for this challenge can be found in the 'Pymaceuticals' folder. 
+## Visualisation w/ Matplotlib
+
+### Includes...
+
+ - Summary statistics
+ - bar charts / pie charts / line plot / box plot / scatter plot
+ - Calculate quartiles, find outliers, and create a box plot
+ - Correlation and regression.
+
+
+
